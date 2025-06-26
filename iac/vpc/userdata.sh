@@ -2,7 +2,7 @@
 
 sudo yum update -y
 
-Sudo yum install -y python3 git wget tar gcc zlib-devel
+sudo yum install -y python3 git wget tar gcc zlib-devel
 
 sudo yum groupinstall -y "Development Tools"
 
